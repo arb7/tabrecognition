@@ -3,7 +3,7 @@ Basic Optical Guitar Tablature Recognition (L248 Mini-Project)
 
 ## Usage
 Python 3.6
-- run `mkdir saved_model` in this directory
+- run `mkdir saved_model` and `mkdir img` in this directory
 - to train and save models, run:
   - `python train_model.py`
   - `python train_model.py -l`
